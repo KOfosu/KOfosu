@@ -9,4 +9,4 @@ Angular and NodeJs are my go-tos for web development, however i have experience 
 - 🤔 I’m looking for help with securing web applications
 - 💬 Ask me about getting started with JavaScript
 - 📫 How to reach me: [twitter](http://twitter.com/kingsleyofosu_) or [linkedin](linkedin.com/in/kingsleyofosu/)
-- ⚡ Fun fact: Manchester United 🔴
+- ⚡ Fun fact: Manchester United fan 🔴
