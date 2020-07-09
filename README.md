@@ -1,7 +1,7 @@
 Hello 👋
 
 I'm Kingsley! I'm a software engineer who is passionate about providing tailored solutions for individuals and businesses. 
-Angular and NodeJs are my go-tos for web development, however i have experience with C# and a graduate of the Google Africa Developer Scholarshipp program.
+Angular and NodeJs are my go-tos for web development, however i have experience with C# and a graduate of the Google Africa Developer Scholarship program.
 
 - 🔭 I’m currently working on ThinkAccounting (An accounting solution)
 - 🌱 I’m currently learning Python
