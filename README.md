@@ -1,6 +1,6 @@
 Hello 👋
 
-I'm Kingsley! I'm a software engineer who is passionate about providing tailored solutions for individuals and businesses. 
+I'm Kingsley! A software engineer who is passionate about providing tailored solutions for individuals and businesses. 
 Angular and Node.js are my go-tos for web development, however i have kickass experience with C#.
 
 - 🔭 I’m currently working on an enterprise accounting solution
